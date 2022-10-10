@@ -13,7 +13,10 @@ lå, den skulle ligge under build plugins og ikke dependencies.
 - Så det ble mye frem og tilbake, men det kan sees i commits
 - Fikk til å kjøre testene på github actions
 
-- Håkon H Pedersen
+
+- laget 2 actions en build og en test
+
+Håkon H Pedersen
 
 
 source:
