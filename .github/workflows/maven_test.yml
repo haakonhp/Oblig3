@@ -1,4 +1,6 @@
-name: tests
+# inspiration source: https://blog.codeleak.pl/2020/06/gh-actions-maven-junit5.html
+
+name: Run Project Tests with Maven
 on: push
 jobs:
   run_tests:
